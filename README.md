@@ -117,4 +117,4 @@ Estoy orientando mi carrera a roles de Forward Deployment Engineer donde pueda c
 ## Contact
 
 - Email: [dandemslay@gmail.com](mailto:dandemslay@gmail.com)
-- LinkedIn: [linkedin.com/in/danny-arodriguez-r](https://www.linkedin.com/in/danny-arodriguez-r)
+- LinkedIn: [https://www.linkedin.com/in/danny-a-rodriguez-r](https://www.linkedin.com/in/danny-a-rodriguez-r)
